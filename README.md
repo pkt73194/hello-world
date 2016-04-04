@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+Hello GitHub!
+
+Dave the IT guy here. Looking to improve my scripting.
+
+Unlike hubbot, I do enjoy earth tacos.
